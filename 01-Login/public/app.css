@@ -62,9 +62,6 @@ input[type=checkbox]:focus + label:before {
   color: #666; 
 }
 
-.btn.btn-outline-success{
-  outline-color: #ff4500;
-}
 h1,
 h2,
 h3 {
@@ -99,4 +96,16 @@ label {
 }
 .login-page .login-box {
   padding: 100px 0;
+}
+
+&.purple-white {
+  font-weight: 700;
+  color: #664e96;
+  border-color: #664e96;
+  background: transparent;
+}
+&.purple-white:hover {
+  color: white;
+  background: #664e96;
+  border-color: #664e96;
 }
