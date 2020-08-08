@@ -98,14 +98,3 @@ label {
   padding: 100px 0;
 }
 
-&.purple-white {
-  font-weight: 700;
-  color: #664e96;
-  border-color: #664e96;
-  background: transparent;
-}
-&.purple-white:hover {
-  color: white;
-  background: #664e96;
-  border-color: #664e96;
-}
