@@ -8530,7 +8530,7 @@ label {
     vertical-align: middle;
     position: relative;
     top: -2px;
-    float: left;
+    float: none;
     padding-right: 10px;
     display: inline-block; }
     .form-check .form-check-sign:before {
@@ -8781,7 +8781,7 @@ label {
   vertical-align: middle;
   position: relative;
   top: -2px;
-  float: left;
+  float: none;
   padding-right: 10px;
   display: inline-block; }
 
@@ -10663,7 +10663,7 @@ footer {
       position: relative;
       width: 22px;
       height: 2px;
-      vertical-align: middle;
+      
       outline: 0;
       display: block;
       border-radius: 1px; }
