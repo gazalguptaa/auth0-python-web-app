@@ -68,7 +68,7 @@ def requires_auth(f):
 # Controllers API
 @app.route('/')
 def home():
-    return render_template('home.html')
+    return render_template('about-us.html')
 
 
 @app.route('/callback')
